@@ -9,4 +9,3 @@ Create Credentials > OAuth client ID
 
 Не забывайте установить модули из файла recommendations.txt
 
-python3 -r recommendations.txt
